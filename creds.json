@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "django-cloudrun-project-347108",
+  "private_key_id": "b776730ce1590402bbe4a32d0f6d530954414893",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCb1loDDlyEiK+y\np0V+W2jGO6+RuLKJkcAu4/pis1GsVxtzDB6vHY0zYWW4T/PO8Gy3l15Pyn/uG4XM\nfik76z5aGVwdmy69KYZHvuSr3ISZ4dBxY6Er+YIsGixGEjVhy9ZONJWZR+1fIubh\nxJL37A+yz2zixI+FqDhUtFSICOCBvtuhfN4ROnhzFWTAt6ulwZ19LfKIqYWJCplz\ngm1mc/Pwka1iVeFGlhmiyxHeBZ/S9dI6fgwbe3e2Xc+myAIhcx8LvmgFzVQtWz2p\ng8CR0srgwk7sWSovOAp16msSOf5MOk+mCKdp7EFAY78g8+bQdmGK7NPYEiBFeQAX\n1clEE3upAgMBAAECggEAEnQM/5ylPvpyl7ywAXjwjLzHmwFcfubX85WCckqaqsY7\n1WFDhugAbuujIHKzQ7d7oDfX7qnjgT4YF3F/D33ZSdED8+uK2tJ+eKN1r5Yyy4gO\nZ0btcGggznkg8gE4+gYpr+QRLO/z/1aCMYzV/G6jI0Dlu2qcNi8H0Jv0AJHQh/xy\n8tBs+18qcTy7tVE0iVbbYdzyAuciYEvannf0qY8gs0Q8SeO+bbmd9+ky5snFaYwo\nMJOnY/bGSKOlWxCiP9LfkmYff1k+pvMhrBNLlM4PPpxOYnGqaxeuONfGzU886/i5\n2I1c9s3PAQDYj9oTc2RJ/9eXWBnS7jEgvy0hJLgqQwKBgQDM6hQwghA4RPFsZVFH\nVv82sXZjz1gDYAwHpY73ZIC1zdeOA8RcnTDAA3uDH9/Dot67kqtXKSwhTJt9H8eS\noPXN8bzO47n04CuNMAhPqf+39Ojvk6oBlQoT0okYc4UtzawhLq1oWCVSYMvTIo6P\nJVPUd5/lplp1qU9296A0E6avawKBgQDCsBs2oRbC3RnLl1uTpLIMhJ418WA+owpy\np1HzFFkANHn59RbxQf6vuAvCAYC3vhlwdNzJHVH8IQYYch70hpJZjc17MqTY7849\ndOGqEdiUyafkKaA0Clm6QPIAXNQtj9YEmIj3cqtHhGd+c7YrIuenxkWEwnYaRbuf\ng6vAC4SqOwKBgQCd2r0O2UMRddrde/dvE4+rXG4tWW8duoHJ6joGTn/wjc+98Rz1\nk4oYgRZG3ukL1o3qxYQEswzx4gfuDes6A5EXw1+FqVx5Ta9/Jj9gzz7VQW+oD4Lp\nkRygRJGkKmmv7T7qmQCw3yZxHWwnC/nyP/kiNb0RtmL9PR6gMQZS18iSXQKBgC/X\nqQhWs8o1HUarrkRs/5gV6u8kntslo8ajGX9bq7diLetf8EBfUGAMIU+OoPwGSigZ\nf7woaWJFF0Ngn/zFKSe6shkpS9tHqu3tUBtEAW4m1Aw8snK3bG9Z0F6IcVe09gnx\nFg+A7VhI0EoB021sSXMwRRsn0nAIXOAJMmaiLfrLAoGAdGSuAP/ZDbwo5JOcG3D7\nAIO4dogAPqYU4+7giklBlv3Ufy5zNjUvjwZr/r8sqyd1KAsaE8JHlLj5uITlm57M\nmjXFyrbJzx0xqXxNGKuxxtyKKvO/w0mpL6Ww5f/ZYUy2XTNNv/ZJD5wCXWMzorMB\nsndvM01FtQAM0VlkTGSSHss=\n-----END PRIVATE KEY-----\n",
+  "client_email": "svc-app-dev@django-cloudrun-project-347108.iam.gserviceaccount.com",
+  "client_id": "100731079607779067036",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/svc-app-dev%40django-cloudrun-project-347108.iam.gserviceaccount.com"
+}

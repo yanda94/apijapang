@@ -9,7 +9,7 @@ from google.cloud import secretmanager
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-DEBUG = True
+DEBUG = False
 
 env = environ.Env(
     SECRET_KEY=(str, os.getenv("SECRET_KEY")),
@@ -137,14 +137,11 @@ USE_L10N = True
 USE_TZ = True
 
 STATIC_URL = 'static/'
-STATIC_ROOT =  os.path.join(BASE_DIR, 'staticfiles')
-
 
 GS_BUCKET_NAME = env("GS_BUCKET_NAME")
 STATICFILES_DIRS = []
 DEFAULT_FILE_STORAGE = "storages.backends.gcloud.GoogleCloudStorage"
 STATICFILES_STORAGE = "storages.backends.gcloud.GoogleCloudStorage"
-# STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 GS_DEFAULT_ACL = "publicRead"
 
 # Auth user

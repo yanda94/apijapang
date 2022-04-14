@@ -15,3 +15,5 @@ app/*/*/*/__pycache__/
 venv/
 .env*
 .flake8
+
+data/

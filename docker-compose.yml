@@ -23,5 +23,5 @@ services:
       - ./creds.json:/secrets/cloudsql/creds.json
     ports:
       - 127.0.0.1:5432:5432
-    command: /cloud_sql_proxy -instances="django-cloudrun-project-347108:asia-southeast2:django-dev-db"=tcp:0.0.0.0:5432 -credential_file=/secrets/cloudsql/creds.json
+    command: /cloud_sql_proxy -instances="django-cloudrun-project-347108:us-east1:django-dev-japang"=tcp:0.0.0.0:5432 -credential_file=/secrets/cloudsql/creds.json
     restart: always
